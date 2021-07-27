@@ -23,7 +23,6 @@ python manage.py runserver
 * `GET` request for showing all available dealers.
 * `POST / PUT` for creating a new dealer.
 * `OPTIONS` to show json schema.
-<br>
 #### `dealers/<int:pk>` 
 * `GET` to show specific dealer.
 * `POST / PUT` to update dealer info.
