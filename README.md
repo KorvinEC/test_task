@@ -11,6 +11,12 @@ Then, install requirements vie package manager [pip](https://pip.pypa.io/en/stab
 pip install -r requirements.txt
 ```
 
+Create dababase:
+```
+python manage.py makemigrations 
+python manage.py migrate 
+```
+
 And run project:
 ```
 python manage.py runserver
