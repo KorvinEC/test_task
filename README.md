@@ -31,14 +31,14 @@ python manage.py runserver
 * `DELETE` to delete entity.
 * `OPTIONS` to show json schema.
 
-####`cars/`
+#### `cars/`
 
 * `GET` request for showing all available cars.
 * `POST / PUT` to create a new car.
 * `OPTIONS` to show json schema.
 * `?dealer=<int:pk>` to filter cars by dealer.
 
-####`cars/<int:pk>`
+#### `cars/<int:pk>`
 
 * `GET` to show specific car.
 * `POST / PUT` to update car info.
