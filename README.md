@@ -5,7 +5,7 @@ Use git to clone:
 git clone https://github.com/KorvinEC/test_task
 ```
 
-Then, install requirements via package manager [pip](https://pip.pypa.io/en/stable/):
+Then, install requirements via package manager:
 
 ```bash
 pip install -r requirements.txt
