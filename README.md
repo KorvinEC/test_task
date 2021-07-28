@@ -1,3 +1,6 @@
+
+Simple rest application example
+
 ## Installation
 
 Use git to clone:
